@@ -49,9 +49,9 @@ The following test scenarios are automated:
 Make sure you have the following installed:
 
 * Java JDK 8 or higher
-* Maven (optional but recommended)
+* Maven 
 * Chrome browser
-* ChromeDriver (matching your Chrome version)
+* ChromeDriver 
 * IDE (like IntelliJ IDEA or Eclipse)
 
 ### 📂 Project Setup
