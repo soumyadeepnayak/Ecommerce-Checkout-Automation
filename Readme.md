@@ -1,4 +1,3 @@
-Here's a sample `README.md` file tailored for your Selenium TestNG automation script for the Saucedemo e-commerce checkout flow:
 
 ---
 
@@ -38,7 +37,7 @@ The following test scenarios are automated:
 * **Java**
 * **Selenium WebDriver**
 * **TestNG**
-* **Maven** (optional for dependency management)
+* **Maven** 
 * **ChromeDriver**
 
 ---
@@ -62,7 +61,7 @@ Make sure you have the following installed:
 3. Import the project into your Java IDE.
 4. Add Selenium and TestNG dependencies:
 
-   * If using Maven, add the following to `pom.xml`:
+   * For using Maven, add the following to `pom.xml`:
 
      ```xml
      <dependencies>
